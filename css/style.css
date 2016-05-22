@@ -81,6 +81,20 @@ nav a:focus {
   text-align: center;
   display: inline-block;
 }
+.fixed-header .logo a{
+  font-size: 28px;
+  color:#fff;
+}
+.work-top .work-btn{
+  width: 200px;
+  height:200px;
+  margin:30px auto;
+}
+.work-top .cont{
+  width: 500px;
+  height:auto;
+  margin: 0 auto;
+}
 
 /*-- sticky-nav --*/
 @media screen and (max-width: 768px) {
